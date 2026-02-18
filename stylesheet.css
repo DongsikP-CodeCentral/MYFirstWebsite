@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(70, 241, 241);
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(85, 176, 225);
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#Header {
+    background-color: rgb(223, 221, 71);
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10%;
+}
+#List {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(3, 5, 6);
+    padding: 15px;
+    margin-left: 35%;
+}
+#navlinks {
+    position: fixed;
+}
+#Footer {
+    background-color: rgb(225, 225, 122);
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20%;
+}
